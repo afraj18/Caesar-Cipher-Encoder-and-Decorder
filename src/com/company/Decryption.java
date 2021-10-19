@@ -1,5 +1,3 @@
-package com.company;
-
 public class Decryption {
     public void decrypt(String plainText,int shift){
         char [] arr = plainText.toCharArray();
